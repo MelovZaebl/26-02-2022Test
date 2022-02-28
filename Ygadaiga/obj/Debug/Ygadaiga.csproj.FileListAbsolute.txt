@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\bin\Debug\Ygadaiga.exe.config
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\bin\Debug\Ygadaiga.exe
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\bin\Debug\Ygadaiga.pdb
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga_MarkupCompile.cache
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga_MarkupCompile.lref
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.g.resources
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.Properties.Resources.resources
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.exe
+C:\Users\User\Desktop\Лапухина\26-02-2022\Ygadaiga\obj\Debug\Ygadaiga.pdb
